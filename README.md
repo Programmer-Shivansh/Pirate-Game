@@ -1,3 +1,5 @@
+Copied from playground
+
 # r3f-multiplayer-pirate-card-game
 
 ![Video thumbnail](./screenshot.jpg)
